@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com\mycompany\sistemagestionbiblioteca\Excepciones$MaterialNoEncontradoException.class
 com\mycompany\sistemagestionbiblioteca\IPrestamo.class
 com\mycompany\sistemagestionbiblioteca\Docente.class
@@ -13,3 +14,9 @@ com\mycompany\sistemagestionbiblioteca\Estudiante.class
 com\mycompany\sistemagestionbiblioteca\SistemaGestionBiblioteca.class
 com\mycompany\sistemagestionbiblioteca\Excepciones.class
 com\mycompany\sistemagestionbiblioteca\Libro.class
+=======
+com\mycompany\proyectoprofesor\Materia.class
+com\mycompany\proyectoprofesor\Estudiante.class
+com\mycompany\proyectoprofesor\Profesor.class
+com\mycompany\proyectoprofesor\ProyectoProfesor.class
+>>>>>>> 386fb8e2ca36658f83b79eb6c83c311e7bfad883

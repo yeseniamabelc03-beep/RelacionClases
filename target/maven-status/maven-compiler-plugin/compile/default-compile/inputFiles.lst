@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\USER\Documents\NetBeansProjects\SistemaGestionBiblioteca\src\main\java\com\mycompany\sistemagestionbiblioteca\ArchivosBiblioteca.java
 C:\Users\USER\Documents\NetBeansProjects\SistemaGestionBiblioteca\src\main\java\com\mycompany\sistemagestionbiblioteca\Biblioteca.java
 C:\Users\USER\Documents\NetBeansProjects\SistemaGestionBiblioteca\src\main\java\com\mycompany\sistemagestionbiblioteca\Docente.java
@@ -10,3 +11,9 @@ C:\Users\USER\Documents\NetBeansProjects\SistemaGestionBiblioteca\src\main\java\
 C:\Users\USER\Documents\NetBeansProjects\SistemaGestionBiblioteca\src\main\java\com\mycompany\sistemagestionbiblioteca\SistemaGestionBiblioteca.java
 C:\Users\USER\Documents\NetBeansProjects\SistemaGestionBiblioteca\src\main\java\com\mycompany\sistemagestionbiblioteca\Tesis.java
 C:\Users\USER\Documents\NetBeansProjects\SistemaGestionBiblioteca\src\main\java\com\mycompany\sistemagestionbiblioteca\Usuario.java
+=======
+C:\Users\USER\Documents\NetBeansProjects\ProyectoProfesor\src\main\java\com\mycompany\proyectoprofesor\Estudiante.java
+C:\Users\USER\Documents\NetBeansProjects\ProyectoProfesor\src\main\java\com\mycompany\proyectoprofesor\Materia.java
+C:\Users\USER\Documents\NetBeansProjects\ProyectoProfesor\src\main\java\com\mycompany\proyectoprofesor\Profesor.java
+C:\Users\USER\Documents\NetBeansProjects\ProyectoProfesor\src\main\java\com\mycompany\proyectoprofesor\ProyectoProfesor.java
+>>>>>>> 386fb8e2ca36658f83b79eb6c83c311e7bfad883
