@@ -1,0 +1,15 @@
+com\mycompany\sistemagestionbiblioteca\Excepciones$MaterialNoEncontradoException.class
+com\mycompany\sistemagestionbiblioteca\IPrestamo.class
+com\mycompany\sistemagestionbiblioteca\Docente.class
+com\mycompany\sistemagestionbiblioteca\Usuario.class
+com\mycompany\sistemagestionbiblioteca\Prestamo.class
+com\mycompany\sistemagestionbiblioteca\Revista.class
+com\mycompany\sistemagestionbiblioteca\Biblioteca.class
+com\mycompany\sistemagestionbiblioteca\Excepciones$MaterialNoPrestadoException.class
+com\mycompany\sistemagestionbiblioteca\Excepciones$UsuarioNoEncontradoException.class
+com\mycompany\sistemagestionbiblioteca\Tesis.class
+com\mycompany\sistemagestionbiblioteca\ArchivosBiblioteca.class
+com\mycompany\sistemagestionbiblioteca\Estudiante.class
+com\mycompany\sistemagestionbiblioteca\SistemaGestionBiblioteca.class
+com\mycompany\sistemagestionbiblioteca\Excepciones.class
+com\mycompany\sistemagestionbiblioteca\Libro.class
